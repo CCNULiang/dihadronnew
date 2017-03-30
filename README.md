@@ -16,13 +16,13 @@ the interpretation of R_AA from a slide of CMS:
 
 <img src="CMSRAA.png" width="300">
 
-Jet-like definition:
+##Jet-like definition:##
 the jet like structure of hadron production at high pT was confirmed by measurements of the azimuthal angle difference \Delta\phi distributions of associated particles in a certain range of pT with respect to a trigger hadron at a higher pT.
 
 
-The details of my di-hadron calculation:
-DCA cut >> a distance of closet approach to the event vertex of less than 2 centimeters  to reduce the contribution from secondary particles.
-mixed event >> the TPC sectors boundaries will introduce a dependence of the pair acceptance on angle difference \Delta\phi. this can be reduced by mixed events calculation.
+##The details of my di-hadron calculation:##
+###DCA cut### >> a distance of closet approach to the event vertex of less than 2 centimeters  to reduce the contribution from secondary particles.
+###mixed event### >> the TPC sectors boundaries will introduce a dependence of the pair acceptance on angle difference \Delta\phi. this can be reduced by mixed events calculation.
 
 
 
