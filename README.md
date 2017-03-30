@@ -21,10 +21,11 @@ the jet like structure of hadron production at high pT was confirmed by measurem
 
 
 ## The details of my di-hadron calculation:
+
 ### DCA cut
->> a distance of closet approach to the event vertex of less than 2 centimeters  to reduce the contribution from secondary particles.
+a distance of closet approach to the event vertex of less than 2 centimeters  to reduce the contribution from secondary particles.
 ### mixed evenT
->> the TPC sectors boundaries will introduce a dependence of the pair acceptance on angle difference \Delta\phi. this can be reduced by mixed events calculation.
+the TPC sectors boundaries will introduce a dependence of the pair acceptance on angle difference \Delta\phi. this can be reduced by mixed events calculation.
 
 
 
